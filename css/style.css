@@ -28,6 +28,7 @@ body {
   background-position: center;
   background-attachment: fixed;
   height: 100vh;
+  /* GLOBAL STYLES 
   background-color:#0f0e13;
   background-image: linear-gradient( 
 150deg, hsl(240deg 100% 20%) 0%, hsl(299deg 100% 21%) 13%, hsl(324deg 100% 32%) 23%, hsl(336deg 100% 42%) 32%, hsl(2deg 90% 61%) 41%, hsl(24deg 100% 58%) 53%, hsl(42deg 100% 52%) 70%, hsl(55deg 97% 57%) 100% );
@@ -36,7 +37,7 @@ body {
   flex-flow: column;
   height: 100vh;
   color: var(--font-color);
-  font-family: var(--font-primary);
+  font-family: var(--font-primary); */
 }
 
 .container {
